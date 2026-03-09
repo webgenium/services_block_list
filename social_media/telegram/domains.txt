@@ -1,0 +1,12 @@
+comments.app
+graph.org
+t.me
+telega.one
+telegra.ph
+telegram.dog
+telegram.me
+telegram.org
+telegram.space
+telesco.pe
+tg.dev
+tx.me

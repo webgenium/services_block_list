@@ -1,0 +1,5 @@
+https://business-api.tiktok.com/portal
+https://business-api.tiktok.com/portal/docs
+https://developers.tiktok.com/products/content-posting-api/
+https://developers.tiktok.com/products/research-api/
+https://www.upload-post.com/platforms/tiktok/

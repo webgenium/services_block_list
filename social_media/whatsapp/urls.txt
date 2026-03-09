@@ -1,0 +1,13 @@
+https://api.whatsapp.com
+https://business.whatsapp.com
+https://chat.whatsapp.com
+https://media.whatsapp.com
+https://messaging.webhook.whatsapp.biz
+https://packages.whatsapp.biz
+https://payments-localisation.whatsapp.com
+https://sb.whatsapp.biz
+https://wa.me
+https://web.whatsapp.com
+https://www.wa.me
+https://www.whatsapp.biz
+https://www.whatsapp.com

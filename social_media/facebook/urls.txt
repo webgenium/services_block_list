@@ -1,1 +1,7 @@
-
+*.akamaihd.net
+*.fbcdn.net
+api.facebook.com
+cdn.fbsbx.com
+graph.facebook.com
+l.facebook.com
+l.instagram.com

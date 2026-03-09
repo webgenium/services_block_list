@@ -1,6 +1,13 @@
-apps.facebook.com
-connect.facebook.net
+facebook-domain-names.com
+facebook-hardware.com
 facebook.com
-fbcdn.com
+facebook.net
+fb.com
+fb.me
+fbcdn.net
+fbpigeon.com
 fbsbx.com
-fbcdn.com.br
+instagram.com
+messenger.com
+meta.com
+threads.net
